@@ -1,0 +1,39 @@
+{
+  "id": "case_004",
+  "date_of_service": "2026-05-20",
+  "note": "Established patient, 67F, Medicare. Two issues today.\n1. Right knee pain from known primary osteoarthritis, worse this month. After consent and sterile prep, injected the right knee joint (intra-articular) with methylprednisolone acetate 40 mg and lidocaine, without ultrasound guidance. Tolerated well.\n2. Hypertension follow-up, separately evaluated: BP 150/92 on amlodipine 5 mg; increased to 10 mg; BMP ordered. Reviewed home log.\nAssessment: Primary osteoarthritis, right knee. Essential hypertension, not controlled.\nThe hypertension evaluation is significant and separately identifiable from the knee injection. MDM for the hypertension: low.",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "M17.11"
+      },
+      {
+        "code": "I10"
+      }
+    ],
+    "first_listed": "M17.11",
+    "first_listed_alternates": [
+      "I10"
+    ],
+    "procedures": [
+      {
+        "code": "20610",
+        "optional_modifiers": [
+          "RT"
+        ]
+      },
+      {
+        "code": "99213",
+        "modifiers": [
+          "25"
+        ]
+      },
+      {
+        "code": "J1030",
+        "units": 1
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}

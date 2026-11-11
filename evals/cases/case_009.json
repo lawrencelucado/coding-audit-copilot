@@ -1,0 +1,29 @@
+{
+  "id": "case_009",
+  "date_of_service": "2026-08-14",
+  "note": "Established patient, 19M, inverted his right ankle playing basketball yesterday. Commercial insurance.\nExam: swelling and tenderness over the anterior talofibular ligament, able to bear weight with pain. No bony tenderness at posterior malleolar edges.\nIn-office x-ray of right ankle, 3 views, interpreted by me: no fracture.\nAssessment: Sprain of the anterior talofibular ligament, right ankle, initial encounter.\nPlan: RICE, ankle brace, NSAIDs, follow up 2 weeks.\nMDM: low.",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "S93.491A"
+      }
+    ],
+    "first_listed": "S93.491A",
+    "optional_dx": [
+      "W09.8XXA",
+      "Y93.67",
+      "Y92.310",
+      "X50.0XXA"
+    ],
+    "procedures": [
+      {
+        "code": "99213"
+      },
+      {
+        "code": "73610"
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}

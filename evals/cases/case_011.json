@@ -1,0 +1,24 @@
+{
+  "id": "case_011",
+  "date_of_service": "2026-09-09",
+  "note": "Nurse visit, 70F, Medicare, monthly vitamin B12 injection for pernicious anemia per standing order.\nCyanocobalamin 1,000 mcg given intramuscularly, left deltoid, by RN under general supervision of the physician, who was in the office suite. No reaction.\nNo physician evaluation today.",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "D51.0"
+      }
+    ],
+    "first_listed": "D51.0",
+    "procedures": [
+      {
+        "code": "96372"
+      },
+      {
+        "code": "J3420",
+        "units": 1
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}

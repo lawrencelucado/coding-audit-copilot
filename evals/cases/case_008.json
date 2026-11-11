@@ -1,0 +1,26 @@
+{
+  "id": "case_008",
+  "date_of_service": "2026-03-25",
+  "note": "Established patient, 31F, 3 days of dysuria and urinary frequency. No fever, no flank pain. Commercial insurance.\nIn-office urinalysis by automated dipstick reader, without microscopy: positive leukocyte esterase and nitrites.\nUrine culture sent (outside lab). Culture result called back same day: >100,000 CFU/mL Escherichia coli.\nAssessment: Urinary tract infection due to E. coli.\nPlan: Nitrofurantoin 100 mg BID x 5 days.\nMDM: low.",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "N39.0"
+      },
+      {
+        "code": "B96.20"
+      }
+    ],
+    "first_listed": "N39.0",
+    "procedures": [
+      {
+        "code": "99213"
+      },
+      {
+        "code": "81003"
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "case_002",
+  "date_of_service": "2026-02-02",
+  "note": "Established patient, 24F, 2 days of sore throat, fever 101.2 F, tender anterior cervical nodes, tonsillar exudate. No cough. Commercial insurance.\nIn-office rapid strep antigen test (immunoassay with direct optical observation): POSITIVE.\nAssessment: Acute streptococcal pharyngitis.\nPlan: Amoxicillin 500 mg BID x 10 days. Return if not improved in 72 hours.\nMDM: low (acute uncomplicated illness, prescription drug management).",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "J02.0"
+      }
+    ],
+    "first_listed": "J02.0",
+    "procedures": [
+      {
+        "code": "99213"
+      },
+      {
+        "code": "87880"
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}

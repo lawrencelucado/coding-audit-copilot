@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+
+# CMS data stays local. NCCI/MUE/CPT content is AMA-licensed: never commit it.
+data/*
+!data/.gitkeep
+
+# Eval runs (regenerate with python -m evals.run)
+results/
+*.egg-info/

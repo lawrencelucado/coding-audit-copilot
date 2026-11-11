@@ -1,0 +1,26 @@
+{
+  "id": "case_010",
+  "date_of_service": "2026-02-18",
+  "note": "Established patient, 55F, 5 days of productive cough and fever to 100.8 F. Commercial insurance.\nLungs: scattered rhonchi right base. SpO2 97%.\nAssessment: Cough and fever, probable community-acquired pneumonia.\nPlan: Chest x-ray ordered at outside imaging center. Will call with results and decide on antibiotics.\nMDM: low.",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "R05.9"
+      },
+      {
+        "code": "R50.9"
+      }
+    ],
+    "first_listed": "R05.9",
+    "first_listed_alternates": [
+      "R50.9"
+    ],
+    "procedures": [
+      {
+        "code": "99213"
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}

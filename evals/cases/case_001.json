@@ -1,0 +1,26 @@
+{
+  "id": "case_001",
+  "date_of_service": "2026-03-10",
+  "note": "Established patient, 58M, follow-up for type 2 diabetes and hypertension. Commercial insurance.\nHPI: Home glucose readings 220-280 fasting over the past month. Taking metformin 1000 mg BID as prescribed. No hypoglycemia.\nVitals: BP 142/88. A1c today (sent out) pending; last A1c 9.4%.\nAssessment/Plan:\n1. Type 2 diabetes mellitus with hyperglycemia, uncontrolled. Add empagliflozin 10 mg daily. Continue metformin. Recheck A1c in 3 months.\n2. Essential hypertension, not at goal. Increase lisinopril to 20 mg.\nLong-term use of oral hypoglycemic drugs.\nMedical decision making: moderate (two chronic illnesses with exacerbation/progression, prescription drug management).",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "E11.65"
+      },
+      {
+        "code": "I10"
+      },
+      {
+        "code": "Z79.84"
+      }
+    ],
+    "first_listed": "E11.65",
+    "procedures": [
+      {
+        "code": "99214"
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}

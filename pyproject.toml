@@ -1,0 +1,19 @@
+[project]
+name = "coding-audit-copilot"
+version = "0.1.0"
+description = "An AI medical coding assistant with deterministic CMS-rule tools and an expert-scored evaluation harness."
+requires-python = ">=3.11"
+dependencies = ["anthropic>=2.8", "pydantic>=2.7"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["copilot", "evals"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

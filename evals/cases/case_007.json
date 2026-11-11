@@ -1,0 +1,23 @@
+{
+  "id": "case_007",
+  "date_of_service": "2026-07-08",
+  "note": "Established patient, 64F, Medicare, follow-up for hypertension and chronic kidney disease stage 3a (eGFR 52, stable).\nBP 132/80 on losartan. No edema.\nAssessment: Hypertension. Chronic kidney disease, stage 3a.\nPlan: Continue losartan. Renal panel in 6 months. Avoid NSAIDs.\nMDM: low (stable chronic illnesses).",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "I12.9"
+      },
+      {
+        "code": "N18.31"
+      }
+    ],
+    "first_listed": "I12.9",
+    "procedures": [
+      {
+        "code": "99213"
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "case_006",
+  "date_of_service": "2026-06-03",
+  "note": "Established patient, 72M, Medicare, follow-up of chronic systolic heart failure (EF 35% on last echo) and long-standing hypertension.\nWeight stable, no edema, NYHA class II. BP 128/76.\nAssessment: Chronic systolic (congestive) heart failure, stable. Hypertension.\nPlan: Continue carvedilol, sacubitril/valsartan, spironolactone. BMP. Follow up 3 months.\nMDM: moderate (chronic illness, prescription drug management).",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "I11.0"
+      },
+      {
+        "code": "I50.22"
+      }
+    ],
+    "first_listed": "I11.0",
+    "procedures": [
+      {
+        "code": "99214"
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}

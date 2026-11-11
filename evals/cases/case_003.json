@@ -1,0 +1,28 @@
+{
+  "id": "case_003",
+  "date_of_service": "2026-04-15",
+  "note": "Established patient, 35M, cut right forearm on a kitchen knife while cooking at home 2 hours ago. Commercial insurance.\nExam: 2.0 cm linear laceration, dorsal right forearm, subcutaneous depth, no foreign body, no tendon involvement, neurovascularly intact.\nProcedure: Wound irrigated, simple single-layer closure with 4-0 nylon, 3 sutures. Length repaired: 2.0 cm.\nAssessment: Laceration without foreign body of right forearm, initial encounter.\nPlan: Suture removal in 10 days. Tetanus up to date.",
+  "gold": {
+    "diagnoses": [
+      {
+        "code": "S51.811A"
+      }
+    ],
+    "first_listed": "S51.811A",
+    "optional_dx": [
+      "W26.0XXA",
+      "Y93.G3",
+      "Y92.010",
+      "Y92.000",
+      "Y92.009",
+      "Y99.8"
+    ],
+    "procedures": [
+      {
+        "code": "12001"
+      }
+    ],
+    "edit_flags_expected": []
+  },
+  "review_status": "reviewed by CPC 2026-11-11"
+}
