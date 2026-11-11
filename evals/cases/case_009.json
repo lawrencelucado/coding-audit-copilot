@@ -10,10 +10,10 @@
     ],
     "first_listed": "S93.491A",
     "optional_dx": [
-      "W09.8XXA",
       "Y93.67",
       "Y92.310",
-      "X50.0XXA"
+      "X50.0XXA",
+      "Y99.8"
     ],
     "procedures": [
       {
@@ -25,5 +25,5 @@
     ],
     "edit_flags_expected": []
   },
-  "review_status": "reviewed by CPC 2026-11-11"
+  "review_status": "reviewed by CPC 2026-11-11; external causes corrected 2026-11-11 (EVAL-1)"
 }
